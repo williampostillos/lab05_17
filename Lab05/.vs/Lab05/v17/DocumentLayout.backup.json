@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\Lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|c:\\users\\alumno\\source\\repos\\lab05\\lab05\\actualizar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\actualizar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|c:\\users\\alumno\\source\\repos\\lab05\\lab05\\actualizar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\actualizar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|c:\\users\\alumno\\source\\repos\\lab05\\lab05\\insertar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\insertar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|c:\\users\\alumno\\source\\repos\\lab05\\lab05\\insertar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\insertar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|c:\\users\\alumno\\source\\repos\\lab05\\lab05\\eliminar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\eliminar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|c:\\users\\alumno\\source\\repos\\lab05\\lab05\\eliminar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\eliminar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|c:\\users\\alumno\\source\\repos\\lab05\\lab05\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|c:\\users\\alumno\\source\\repos\\lab05\\lab05\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|c:\\users\\alumno\\source\\repos\\lab05\\lab05\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|c:\\users\\alumno\\source\\repos\\lab05\\lab05\\lab05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D250FCB-9FA1-4C18-A689-E10498190FAF}|Lab05\\Lab05.csproj|solutionrelative:lab05\\lab05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actualizar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Actualizar.xaml.cs",
+              "RelativeDocumentMoniker": "Lab05\\Actualizar.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Actualizar.xaml.cs",
+              "RelativeToolTip": "Lab05\\Actualizar.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:20:40.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Eliminar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Eliminar.xaml.cs",
+              "RelativeDocumentMoniker": "Lab05\\Eliminar.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Eliminar.xaml.cs",
+              "RelativeToolTip": "Lab05\\Eliminar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:17:00.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Insertar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Insertar.xaml.cs",
+              "RelativeDocumentMoniker": "Lab05\\Insertar.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Insertar.xaml.cs",
+              "RelativeToolTip": "Lab05\\Insertar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:11:12.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insertar.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Insertar.xaml",
+              "RelativeDocumentMoniker": "Lab05\\Insertar.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Insertar.xaml",
+              "RelativeToolTip": "Lab05\\Insertar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T23:01:00.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eliminar.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Eliminar.xaml",
+              "RelativeDocumentMoniker": "Lab05\\Eliminar.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Eliminar.xaml",
+              "RelativeToolTip": "Lab05\\Eliminar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T22:54:22.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actualizar.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Actualizar.xaml",
+              "RelativeDocumentMoniker": "Lab05\\Actualizar.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Actualizar.xaml",
+              "RelativeToolTip": "Lab05\\Actualizar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T22:53:19.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lab05",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Lab05.csproj",
+              "RelativeDocumentMoniker": "Lab05\\Lab05.csproj",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Lab05.csproj",
+              "RelativeToolTip": "Lab05\\Lab05.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T22:28:43.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Window1.xaml",
+              "RelativeDocumentMoniker": "Lab05\\Window1.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\Window1.xaml",
+              "RelativeToolTip": "Lab05\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T22:22:35.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab05\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\MainWindow.xaml",
+              "RelativeToolTip": "Lab05\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T22:21:30.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab05\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Lab05\\Lab05\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab05\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:21:28.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

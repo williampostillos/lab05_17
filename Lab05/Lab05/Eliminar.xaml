@@ -1,0 +1,13 @@
+﻿<Window x:Class="Lab05.Eliminar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Eliminar Cliente" Height="327" Width="531">
+    <Grid Margin="10">
+        <!-- Etiqueta y cuadro de texto para ID del Cliente -->
+        <TextBlock Text="ID Cliente:" VerticalAlignment="Top" HorizontalAlignment="Left" />
+        <TextBox x:Name="txtIdCliente" Width="200" Height="25" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="80,0,0,0" />
+
+        <!-- Botón para eliminar -->
+        <Button Content="Eliminar" Width="100" Height="30" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,10" Click="Eliminar_Click" />
+    </Grid>
+</Window>

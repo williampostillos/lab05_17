@@ -1,0 +1,15 @@
+﻿<Window x:Class="Lab05.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid>
+        <!-- DataGrid para mostrar los datos de la tabla clientes -->
+        <DataGrid x:Name="listGrid" HorizontalAlignment="Left" Height="200" VerticalAlignment="Top" Width="500" AutoGenerateColumns="True"/>
+
+        <!-- Botones -->
+        <Button Content="Insertar" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="100" Margin="0,0,0,10" Click="Insertar_Click" />
+        <Button Content="Listar" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="110,0,0,10" Width="100" Click="Listar_Click" />
+        <Button Content="Eliminar" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="220,0,0,10" Width="100" Click="Eliminar_Click" />
+        <Button Content="Actualizar" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="330,0,0,10" Width="100" Click="Actualizar_Click" />
+    </Grid>
+</Window>
